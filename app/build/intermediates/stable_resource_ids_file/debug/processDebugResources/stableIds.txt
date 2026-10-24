@@ -1,0 +1,1 @@
+za.co.smartpantry:style/AppTheme = 0x7f010000

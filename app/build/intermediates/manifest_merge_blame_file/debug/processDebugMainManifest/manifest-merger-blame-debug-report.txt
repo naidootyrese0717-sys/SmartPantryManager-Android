@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="za.co.smartpantry"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:2:5-6:19
+12        android:debuggable="true"
+13        android:extractNativeLibs="false"
+14        android:label="Smart Pantry"
+14-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:2:50-78
+15        android:theme="@style/AppTheme"
+15-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:2:18-49
+16        android:usesCleartextTraffic="false" >
+16-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:2:79-115
+17        <activity
+17-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:3:9-5:20
+18            android:name="za.co.smartpantry.MainActivity"
+18-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:3:19-47
+19            android:exported="true" >
+19-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:3:48-71
+20            <intent-filter>
+20-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:4:13-154
+21                <action android:name="android.intent.action.MAIN" />
+21-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:4:28-79
+21-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:4:36-77
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:4:79-138
+23-->C:\Users\evonr\Downloads\SmartPantryManager_Tyrese\SmartPantryManager\app\src\main\AndroidManifest.xml:4:89-136
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>
